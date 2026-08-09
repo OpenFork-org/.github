@@ -101,7 +101,7 @@ const lines = [
   '',
   ...results.map(
     (r, i) =>
-      `${i + 1}. ${r.full_name} | ${r.description ?? ''} | ${r.language ?? ''} | ${r.stargazers_count} stars | ${r.license?.spdx_id ?? ''} | ${r.html_url}`,
+      `${i + 1}. https://github.com/${r.full_name} | ${r.description ?? ''} | ${r.language ?? ''} | ${r.stargazers_count} stars | ${r.license?.spdx_id ?? ''}`,
   ),
   '',
 ]
