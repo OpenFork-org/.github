@@ -1,0 +1,304 @@
+OpenFork Discoveries — 2026-08-14
+共 300 个仓库（每日上限 300）
+条件: 主流语言 · Star 1-20 · 90 天内更新 · 含 README 与许可证 · 非 fork · 非空仓库
+
+1. https://github.com/PunishXIV/Questionable |  | C# | 21 stars | AGPL-3.0
+2. https://github.com/americanexpress/babel-preset-amex | ✨ Standard babel preset for American Express | JavaScript | 20 stars | Apache-2.0
+3. https://github.com/a3rev/a3-lazy-load | Speed up your site and enhance frontend user's visual experience in PC's, Tablets and mobile with a3 Lazy Load. | JavaScript | 20 stars | GPL-3.0
+4. https://github.com/markmead/alpinejs-slug | Transform a string into a slug with Alpine JS and Slugify 🐌 | JavaScript | 20 stars | MIT
+5. https://github.com/Klimadatastyrelsen/skraafoto_frontend | Webapplikation, som gør det muligt at finde og vise skråfotos.  | JavaScript | 20 stars | MIT
+6. https://github.com/emollick/imminence | a suburb, on the last evening - a ten-minute game printed in three inks and a gold. Play: the-imminence.netlify.app | JavaScript | 20 stars | MIT
+7. https://github.com/GoogleChromeLabs/pending-beacon-polyfill |  | JavaScript | 20 stars | Apache-2.0
+8. https://github.com/itsliaaa/starseed | A lightweight and modular WhatsApp bot built with Baileys, bringing group management, moderation, fun quiz games, and handy tools together in a fast, efficient, and minimal setup. | JavaScript | 20 stars | Apache-2.0
+9. https://github.com/EasyEyes/remote-calibrator | Measure screen size, track viewing distance and gaze, and more! | JavaScript | 20 stars | MIT
+10. https://github.com/usyless/twitter-improvements | Easy Twitter/X full quality image and video downloading with custom filenames, easy copying tweets with VXTwitter or FXTwitter links, sidebar and tweet button hiding, and other quality of life features! | JavaScript | 20 stars | GPL-3.0
+11. https://github.com/presidential-innovation-fellows/pif-website | PIF website, jekyll flavored | JavaScript | 20 stars | NOASSERTION
+12. https://github.com/S1implyBlue/PTF-Studio | A visual PSP PTF theme maker, editor and live XMB preview.  | JavaScript | 20 stars | GPL-3.0
+13. https://github.com/Nir-Bhay/markups | A sleek, real-time Markdown editor with advanced preview, syntax highlighting, and extensible plugins. | JavaScript | 20 stars | MIT
+14. https://github.com/mwakidenis/E-Commerce-Website | This project is an e-commerce website featuring three roles: Admin, User, and Guest. It consists of two systems: MainSystem for core functionalities like browsing, shopping, and management, and SubSystem for payment processing. Built using Node.js, Express.js, and TailwindCSS, it ensures a modern, scalable, and user-friendly experience. | JavaScript | 20 stars | MIT
+15. https://github.com/paypal/paypal-card-components | A Hosted Fields component for Payments SDK | JavaScript | 20 stars | Apache-2.0
+16. https://github.com/1024pix/pix-ui | Pix-UI is the implementation of Pix design principles and guidelines for its products. | JavaScript | 20 stars | MIT
+17. https://github.com/sffxzzp/EpicInfo | 将匹配于其乐社区中的 Epic 游戏链接，并变更已拥有游戏的链接颜色。 | JavaScript | 20 stars | MIT
+18. https://github.com/dipterix/three-brain-js | Javascript engine for 3D brain model (used by RAVE project) | JavaScript | 20 stars | MPL-2.0
+19. https://github.com/Pradumnasaraf/Pradumnasaraf.github.io | Pradumna's personal website repo. | JavaScript | 20 stars | GPL-3.0
+20. https://github.com/szhsin/eslint-plugin-react-hooks-addons | ESLint rule to check potentially unintended dependencies in the useEffect hook. | JavaScript | 20 stars | MIT
+21. https://github.com/eu-digital-identity-wallet/av-lib-android-zkp-age-icao | Age Verification ZKP ICAO for Android | JavaScript | 20 stars | Apache-2.0
+22. https://github.com/alchaincyf/huashu-slide-codex | Codex-only AI visual material production skill — slides + WeChat covers + Bilibili/YouTube thumbnails, powered by built-in image_gen (no API fees) | JavaScript | 20 stars | MIT
+23. https://github.com/youngchris29-art/NuvioTV | Native tvOS (Apple TV) port of NuvioMobile, reusing its shared Kotlin business logic with a new SwiftUI focus-engine frontend | JavaScript | 20 stars | GPL-3.0
+24. https://github.com/ovo066/kktest |  | JavaScript | 20 stars | NOASSERTION
+25. https://github.com/Anbani/anbani.js | Multifunctional javascript toolkit for Georgian Alphabet - Anbani | JavaScript | 20 stars | GPL-3.0
+26. https://github.com/mjbvz/vscode-markdown-yaml-preamble | Makes yaml front matter render as a table in VS Code's built-in markdown preview: | JavaScript | 20 stars | MIT
+27. https://github.com/herschel666/exif-loader | Extract EXIF- & IPTC-data from your JPGs during build-time. | JavaScript | 20 stars | MIT
+28. https://github.com/harsh98trivedi/Instagram-Photo-Downloader | Download Instagram photos with ease. Free, Clean & Simple Instagram Photo Downloader for you. | JavaScript | 20 stars | GPL-3.0
+29. https://github.com/yohasebe/fastmail-plus | A Chrome extension to make Fastmail web UI more usable and productive | JavaScript | 20 stars | MIT
+30. https://github.com/darthcloud/BlueRetroWebCfg | BlueRetro Web-Bluetooth configuration pages | JavaScript | 20 stars | Apache-2.0
+31. https://github.com/SoPat712/obsidian-intelligent-linking | A fork of Smart-Connections by brianpetro | JavaScript | 20 stars | GPL-3.0
+32. https://github.com/polius/RetroX | Self-hosted retro gaming, right in your browser. | JavaScript | 20 stars | NOASSERTION
+33. https://github.com/Llama-Logic/PlumbBuddy | The friendly helper for Sims 4 mods—crafted with care, open for all. | JavaScript | 20 stars | MIT
+34. https://github.com/mailmojo/screenie-server | A Node server with a cluster of Puppeteer (Chrome headless) instances for scalable screenshot generation. | JavaScript | 20 stars | MIT
+35. https://github.com/ladiaria/utopia-crm | Utopía is an open source platform for community based newsrooms to manage their subscriptions  | JavaScript | 20 stars | BSD-3-Clause
+36. https://github.com/Hubro/tree-sitter-robot | Tree-sitter parser for Robot Framework files | JavaScript | 20 stars | ISC
+37. https://github.com/crosswordnexus/html5-crossword-solver | An HTML5 crossword solver that can handle JPZ files | JavaScript | 20 stars | BSD-3-Clause
+38. https://github.com/TouhouFishClub/baibaibot |  | JavaScript | 20 stars | MIT
+39. https://github.com/nearform/the-graphql-workshop | A workshop about GraphQL with mercurius | JavaScript | 20 stars | CC-BY-SA-4.0
+40. https://github.com/slogsdon/parcel-plugin-fable | Parcel bundler plugin for Fable — compile F# to JavaScript inside Parcel's asset pipeline. | JavaScript | 20 stars | MIT
+41. https://github.com/sle118/squeezelite-esp32-installer | Web installer for the squeezelite-esp32 project | JavaScript | 20 stars | MIT
+42. https://github.com/rkinnett/rkinnett.github.io |  | JavaScript | 20 stars | GPL-3.0
+43. https://github.com/kiro-community/book-of-kiro | This is the book of Kiro. This book is not maintained by AWS. The information may not be current. | JavaScript | 20 stars | MIT
+44. https://github.com/mateonunez/fastify-orama | Orama search-engine plugin for Fastify | JavaScript | 20 stars | MIT
+45. https://github.com/dhis2/data-visualizer-app | DHIS2 Data Visualizer App | JavaScript | 20 stars | BSD-3-Clause
+46. https://github.com/littlebyteorg/appledb-web |  | JavaScript | 20 stars | MIT
+47. https://github.com/gandazgul/runwield | RunWield is an anti-slop, human in the loop software engineering harness. It allows you to wield LLMs as precision tools that augment your capabilities. | JavaScript | 20 stars | NOASSERTION
+48. https://github.com/comunica/jQuery-Widget.js | 🖼 A jQuery widget to query heterogeneous interfaces using Comunica SPARQL | JavaScript | 20 stars | MIT
+49. https://github.com/fvdm/nodejs-ns-api | Unofficial NodeJS module for Nederlandse Spoorwegen API | JavaScript | 20 stars | Unlicense
+50. https://github.com/Felix-au/Sonixx-Website-Audio-Routing-and-Soundbaord |  Official landing website for Sonixx, a native Windows virtual audio router that captures per-app live audio and mic streams into a virtual mic for Discord, OBS, and games. Built with React 19, Vite 8 and WebGL Canvas. | JavaScript | 20 stars | MIT
+51. https://github.com/NeteaseCloudMusicApiEnhanced/UnblockNeteaseMusic-utils | 网易云音乐受限歌曲解锁API || UnblockNeteaseMusic-utils api | JavaScript | 20 stars | MIT
+52. https://github.com/Google-Health-API/create-fitbit-app |  | JavaScript | 20 stars | MIT
+53. https://github.com/WICG/install-element | An `<install>` element might be nice. | JavaScript | 20 stars | CC-BY-4.0
+54. https://github.com/Kappaemme-git/build-startup-brand | Build a distinctive startup brand identity with Codex and receive an openable visual report. | JavaScript | 20 stars | MIT
+55. https://github.com/lastwall/whmcs-hetzner-cloud-automation | Free WHMCS provisioning module for Hetzner Cloud, allowing automated server creation, Power management, ISO image, Rebuild, Password reset and termination or Suspend directly from WHMCS. | JavaScript | 20 stars | NOASSERTION
+56. https://github.com/Eomm/why-don-t-you-tweet | Tweet your GitHub events! | JavaScript | 20 stars | MIT
+57. https://github.com/Orsso/flourish | Motion engine for the GNOME Shell's Dash. Full support for Dash to Dock & Ubuntu Dock. | JavaScript | 20 stars | GPL-2.0
+58. https://github.com/neilbauman21-hub/free-moveis-api |  VidZee provider tracking their current API, plus a TMDB->MP4 streaming endpoint. | JavaScript | 20 stars | MIT
+59. https://github.com/RBraga01/Quality-Engineering-Skills | 22 quality engineering skills and 8 agents for AI — ISO 9001, IATF 16949, AIAG-VDA FMEA, VDA 6.3, PPAP, APQP, SPC, MSA | JavaScript | 20 stars | MIT
+60. https://github.com/chenj-freedom/PixelType | A browser-based typing game for elementary school students, featuring both Chinese and English versions. Pure frontend—just open and play. | JavaScript | 20 stars | MIT
+61. https://github.com/Supergiovane/node-red-contrib-sia-ultimate | Connect your SIA-DCS compatible alarm system to node-red. It works with Ajax System too. | JavaScript | 20 stars | MIT
+62. https://github.com/deusaw/Pebble-Wrist-AI |  | JavaScript | 20 stars | NOASSERTION
+63. https://github.com/IBM/node-sdk-core | The node-sdk-core repository contains core functionality required by code generated by the IBM OpenAPI SDK Generator.  | JavaScript | 20 stars | Apache-2.0
+64. https://github.com/Grisha-Pochuev/finite-magma-e677-to-e255 | The Open Mathematics Project: reproducible research on the finite magma problem E677 -> E255 | JavaScript | 20 stars | MIT
+65. https://github.com/robertskmiles/firefox-claudemonkey | AI-authored Firefox userscripts: describe a change to the current site and a local Claude Code instance writes/edits the userscript. Fork of Violentmonkey. | JavaScript | 20 stars | MIT
+66. https://github.com/XiaoDaiGua-Ray/vue3-next-qrcode | A QR Code component about vue3 that supports rich attributes such as LOGO GIF. Support SSR! | JavaScript | 20 stars | MIT
+67. https://github.com/kotoba-rin/Lacan-Chinese-Translation-Project |  | JavaScript | 20 stars | CC-BY-4.0
+68. https://github.com/ChinmayKaitade/GitHub-Terminal-Stats-OpenSource | Create dynamic, terminal-style GitHub Stats for your Profile README! Automatically updates with GitHub Actions. | JavaScript | 20 stars | MIT
+69. https://github.com/yama-dev/js-scroll-effect-module | [v0.13.6] Add effect at scroll. | JavaScript | 20 stars | MIT
+70. https://github.com/CLIuno/core | Cliuno is a CLI to make your journey in web development less painful. | JavaScript | 20 stars | AGPL-3.0
+71. https://github.com/fmacpro/horseman-article-parser | A web page article parser which returns an object containing the article's formatted text and other attributes including sentiment, keyphrases, people, places, organisations, spelling suggestions, in-article links, meta data & lighthouse audit results. | JavaScript | 20 stars | GPL-3.0
+72. https://github.com/santhoshtr/CLDRPluralRuleParser | CLDR Plural Rule Parser | JavaScript | 20 stars | MIT
+73. https://github.com/googleads/googleads-viewability-insights-extension | A DevTools extension for inspecting the viewability of Ad Manager Ads. | JavaScript | 20 stars | Apache-2.0
+74. https://github.com/stefanbohacek/mastodon-tools | Making Mastodon easier to use. | JavaScript | 20 stars | MIT
+75. https://github.com/biodatlab/biodatlab.github.io | Website for Biomedical and Data (Bio-Dat) lab at Mahidol University, Thailand | JavaScript | 20 stars | MIT
+76. https://github.com/qwerfd2/buried-city | Code repo for modded Buried Town | JavaScript | 20 stars | NOASSERTION
+77. https://github.com/rickyfont94/climate-cluster-card | Wide-arc instrument-cluster climate (HVAC) card for Home Assistant: a two-ring temp/fan dial with a mode pop-up, swing/LED/sound toggles, and a full GUI editor. | JavaScript | 20 stars | MIT
+78. https://github.com/birdofpreyru/babel-preset-svgr | Babel preset for SVG importing into React apps using Babel & SVGR | JavaScript | 20 stars | NOASSERTION
+79. https://github.com/eroxmerox/AmbientGlass | Premium glassmorphism theme for Spicetify with atmospheric glows, floating UI elements, and Apple-style aesthetics. | JavaScript | 20 stars | MIT
+80. https://github.com/newrelic/nr1-github | NR1 Github allows you to create more context to your entities by having access to the GitHub repository, contributors and README. | JavaScript | 20 stars | Apache-2.0
+81. https://github.com/putoutjs/printer | Easiest possible opinionated Babel AST printer | JavaScript | 20 stars | MIT
+82. https://github.com/logimaxx/zbxwizz | ZbxWizz is a data-driven tool that simplifies and automates Zabbix configuration workflows. It lets administrators and DevOps engineers perform bulk operations—such as onboarding hosts, updating tags, or generating reports—through an intuitive spreadsheet-like interface powered by JavaScript transformations and Zabbix API integration. | JavaScript | 20 stars | MIT
+83. https://github.com/Yanel85/IP-Location-Finder | A Chrome extension that identifies the geographic location of IP addresses on a webpage. | JavaScript | 20 stars | GPL-3.0
+84. https://github.com/kgstorm/home-assistant-calorie-tracker | Calorie and weight tracker with Voice Assist support. | JavaScript | 20 stars | MIT
+85. https://github.com/axelarnetwork/axelar-contract-deployments | Contract deployment scripts and resources for Axelar | JavaScript | 20 stars | MIT
+86. https://github.com/Darkstarrd-dev/tinyrouter | Lightweight Utilities bundled local based API router 、 AI Chat 、Image Generation、 Stream Vedio Download Manager、 Image Viewer、 Video Player ....... with extremely tiny size | JavaScript | 20 stars | NOASSERTION
+87. https://github.com/pengutronix/flamingo | python3-based, pelican-inspired static site generator | JavaScript | 20 stars | Apache-2.0
+88. https://github.com/kaermorchen/ember-photoswipe | An Ember addon for using Photoswipe in Ember applications. | JavaScript | 20 stars | MIT
+89. https://github.com/liuyuchenzh/webpack-upload-plugin | A plugin for webpack | JavaScript | 20 stars | MIT
+90. https://github.com/rticommunity/rticonnextdds-connector-js | RTI Connector for Connext DDS is a lightweight technology that enables DDS data to be accessed with JavaScript. | JavaScript | 20 stars | NOASSERTION
+91. https://github.com/italia/design-comuni-plone-theme | Tema Plone per i siti dei comuni italiani | JavaScript | 20 stars | GPL-3.0
+92. https://github.com/yunusemre-dev/yunusemre.dev | A minimal personal website with an AI clone, live operator chat, work history, and a visual life dump. | JavaScript | 20 stars | MIT
+93. https://github.com/meatflavourdev/legendary-octo-chainsaw | A real-time collaborative diagram editor and document library that enables users to chat, create, & communicate visually in real-time. (CAUTION: This is alpha software) | JavaScript | 20 stars | MIT
+94. https://github.com/ariya/chat-llm | Chat with an LLM | JavaScript | 20 stars | MIT
+95. https://github.com/e404-tagnet/IOS-Widgets | IOS WIDGETS: fully customisable on color and themes, built with the scriptable app, zero cost and great for beginners! | JavaScript | 20 stars | GPL-3.0
+96. https://github.com/gopalparashar421/lightweight-charts-python | Python framework for TradingView's Lightweight Charts JavaScript library. | JavaScript | 20 stars | MIT
+97. https://github.com/ichris007/obsidian-share-showcase | 都是个人使用Obsidian中写的或收集的脚本和样式代码 | JavaScript | 20 stars | MIT
+98. https://github.com/d-zero-dev/frontend-guidelines | D-ZERO Frontend Developer's Guideline | JavaScript | 20 stars | NOASSERTION
+99. https://github.com/nextcloud/data_request | :man_judge: Nextcloud app to let users request a data export or account removal | JavaScript | 20 stars | AGPL-3.0
+100. https://github.com/jelastic-jps/lets-encrypt | Let’s Encrypt Add-on for Jelastic PaaS | JavaScript | 20 stars | Apache-2.0
+101. https://github.com/aodn/aodn-portal | AODN Open Geospatial Portal | JavaScript | 20 stars | GPL-3.0
+102. https://github.com/JRGTH/xigmanas-bastille-extension |  | JavaScript | 20 stars | BSD-3-Clause
+103. https://github.com/Funlang/z-data | Z-data is an extremely lightweight zero configuration embedded mini front-end js framework. | JavaScript | 20 stars | MIT
+104. https://github.com/craigbuckler/publican | simple and fast static site generator | JavaScript | 20 stars | MIT
+105. https://github.com/srp33/CodeBuddy | CodeBuddy: A programming assignment management system for short-form exercises | JavaScript | 20 stars | AGPL-3.0
+106. https://github.com/MateuszDabrowski/diagramforce | Free diagramming solution created with Salesforce Architects in mind | JavaScript | 20 stars | NOASSERTION
+107. https://github.com/BzGEO/PACE_OCI_Toolkit | Google Earth Engine (GEE) JavaScript-based tools for working with NASA PACE OCI data | JavaScript | 20 stars | MIT
+108. https://github.com/zmsp/AppRankly | Self-hosted, open-source mobile app analytics & ASO dashboard for Google Play Store and Apple App Store. | JavaScript | 20 stars | NOASSERTION
+109. https://github.com/sf-cola/select_to_select2 | This is a repository of select to select 2 which is a redmine plugin. | JavaScript | 20 stars | GPL-3.0
+110. https://github.com/gravitee-io/gravitee-ui-components | 🧱 Set of UI components used across the Gravitee.io ecosystem. | JavaScript | 20 stars | Apache-2.0
+111. https://github.com/valette/desk | DESK exposing server kit : HTML5 solution for remote processing and visualization | JavaScript | 20 stars | NOASSERTION
+112. https://github.com/contrastsecurity/contrast | CodeSec by Contrast - The fastest and most accurate SAST scanner. Scan code and serverless environments | JavaScript | 20 stars | MIT
+113. https://github.com/anvaka/simplegrad | Simple reverse mode automatic differentiation of scalar values in javascript | JavaScript | 20 stars | MIT
+114. https://github.com/rhenryw/SPLASH | Secure Proxy for Live Audiovisual SHell- a CLI themed web proxy | JavaScript | 20 stars | AGPL-3.0
+115. https://github.com/Radexito/DjManager | Your music library, built for DJs. Import tracks, analyse BPM and key automatically, build playlists, and prepare sets — all offline, all on your machine. | JavaScript | 20 stars | MIT
+116. https://github.com/navariltd/Junior-School | Junior School is a custom Frappe application that extends the core Frappe Education. It provides comprehensive tools for scheduling, attendance tracking, assessment management, and automated student lifecycle processes, specifically designed for multi-school environments. | JavaScript | 20 stars | AGPL-3.0
+117. https://github.com/SeanWong17/Sauropsida-tree | DeepTime Sauropsida：交互式蜥形纲演化树，3D 螺旋序幕 + D3.js 动态时间树，跨越 3 亿年 | Interactive sauropsid phylogeny with 3D spiral intro & D3.js dynamic timetree spanning 300 Myr | JavaScript | 20 stars | NOASSERTION
+118. https://github.com/OpenImagingLab/InstantRetouch | [CVPR 2026] InstantRetouch: Efficient and High-Fidelity Instruction-Guided Image Retouching with Bilateral Space | JavaScript | 20 stars | Apache-2.0
+119. https://github.com/kongxcer555/codex-skin-builder | A Codex skill for building and customizing Codex skins. | JavaScript | 20 stars | MIT
+120. https://github.com/hydroCoderClaud/cc-desktop | Hydro Desktop — A native desktop workspace for Claude Code, with project-based agents, Notebooks, capability management, scheduled tasks, and IM bridges. | JavaScript | 20 stars | NOASSERTION
+121. https://github.com/LunarWerxs/NormWind |  | JavaScript | 20 stars | MIT
+122. https://github.com/asamuzaK/semverParser | Parse, verify, compare SemVer | JavaScript | 20 stars | MIT
+123. https://github.com/DrakiaXYZ/SPT-LiveFleaPriceDB | Auto updated repo containing SPT flea prices | JavaScript | 20 stars | MIT
+124. https://github.com/Qbix/Platform | Free, open-source community platform, decentralized alternative to Big Tech. For apps that empower people and unite communities. | JavaScript | 20 stars | AGPL-3.0
+125. https://github.com/NaturalIntelligence/fastify-xml-body-parser | Fastify plugin / module to parse XML payload / body into JS object | JavaScript | 20 stars | MIT
+126. https://github.com/herbert-julio-azion/specialist-agent | Your AI development team — 27+ agents and 21 skills that build, review, debug, and ship production code. Works with Claude Code, Cursor, VS Code, Windsurf, Codex, and OpenCode. 7 framework packs: Vue, React, Next.js, SvelteKit, Angular, Astro, Nuxt. | JavaScript | 20 stars | MIT
+127. https://github.com/Nexus-Mods/node-nexus-api | Node.js client for the nexusmods.com API | TypeScript | 20 stars | GPL-3.0
+128. https://github.com/Suvraneel/Suvraneel.github.io | 3D Portfolio UI | TypeScript | 20 stars | AGPL-3.0
+129. https://github.com/kuoruan/verdaccio-openid | 📦🔐 OpenIDConnect plugin for Verdaccio, fork of https://github.com/n4bb12/verdaccio-github-oauth-ui | TypeScript | 20 stars | MIT
+130. https://github.com/Apollon77/ioBroker.homekit-controller | Pair and control HomeKit devices directly | TypeScript | 20 stars | MIT
+131. https://github.com/ByronMunozG/react-image-area | react components to select multiple areas on a image | TypeScript | 20 stars | MIT
+132. https://github.com/ziaulhoque24/react-rating-star-with-type | This simple react rating star component with typescript support made by Ziaul Hoque Founder of roktoshare.com | TypeScript | 20 stars | MIT
+133. https://github.com/proof/proof-vc-web | Web Components for Proof Digital Credentials. | TypeScript | 20 stars | Apache-2.0
+134. https://github.com/Eigenwise/tesseron | Expose typed web-app actions to MCP-compatible AI agents over WebSocket. TypeScript SDK + matching MCP gateway. | TypeScript | 20 stars | NOASSERTION
+135. https://github.com/kernel/just-html | Agent-first minimal HTML document host. Your agent self-onboards, gets an API key, and publishes HTML to a stable URL — private by default, shareable, with comments & reactions for humans and their agents. | TypeScript | 20 stars | MIT
+136. https://github.com/Spritz-Labs/spritz | Spritz is a decentralized, permission-less and censorship resistant chat app for web3. Connect with friends using passkeys or wallets. Make HD video calls, go live to your followers, and chat freely on a decentralized network. | TypeScript | 20 stars | NOASSERTION
+137. https://github.com/Faceplugin-ltd/FaceRecognition-React-Native | Face recognition React Native Plugin with 3D passive liveness detection (Face Detection, Face Landmarks, Face Recognition, Face Liveness, Face Pose, Face Expression, Face attributes) | TypeScript | 20 stars | MIT
+138. https://github.com/saihgupr/keyboard-maestro-mcp | An MCP server for Keyboard Maestro. Manage your macros with natural language commands. | TypeScript | 20 stars | MIT
+139. https://github.com/getversive/whisker | AI-powered usability testing CLI | TypeScript | 20 stars | MIT
+140. https://github.com/kelani34/depguarder |  | TypeScript | 20 stars | ISC
+141. https://github.com/avacocloud/avaco-deno |  | TypeScript | 20 stars | NOASSERTION
+142. https://github.com/rdfjs/types | Authoritative TypeScript typings for all RDFJS specifications | TypeScript | 20 stars | MIT
+143. https://github.com/auguwu/clippy-action | 🐻‍❄️📦 GitHub action to run Clippy, an up-to-date and modern version of actions-rs/clippy | TypeScript | 20 stars | Apache-2.0
+144. https://github.com/borbiuk/band-play | Multifunctional Chrome/Firefox extension for Bandcamp | TypeScript | 20 stars | MIT
+145. https://github.com/bitflyer-tools/cycle-flyer | :zap: web client for bitFlyer lightning made by Cycle.js | TypeScript | 20 stars | MIT
+146. https://github.com/safe-global/safe-events-service | Handle Safe indexing events from Transaction Service and deliver as HTTP webhooks | TypeScript | 20 stars | NOASSERTION
+147. https://github.com/nirholas/xspace-AI | TypeScript SDK and CLI for building AI agents that autonomously join, listen, and speak in X/Twitter Spaces. Supports multiple LLM providers (OpenAI, Claude, Groq), speech-to-text (Whisper, Deepgram), text-to-speech (ElevenLabs, OpenAI), multi-agent coordination, middleware pipelines, and a real-time admin dashboard. No Twitter API approval needed  | TypeScript | 20 stars | NOASSERTION
+148. https://github.com/rosset-nocpes/hikka-features | Extension which enhances hikka.io | TypeScript | 20 stars | MIT
+149. https://github.com/njiedev/miituber | Turn your Mii into a VTuber with webcam head tracking, voice-reactive lip sync, and transparent OBS capture. | TypeScript | 20 stars | AGPL-3.0
+150. https://github.com/Hurtak/hello | Chrome extension that replaces new tab page with widgets and fresh image every day. | TypeScript | 20 stars | MIT
+151. https://github.com/lapic-ufjf/searchat-behavior-api | A standardized framework for capturing authentic human behavior in search and AI-chat experiments. | TypeScript | 20 stars | MIT
+152. https://github.com/kainonly/litho | This project is a utility library that deeply encapsulates ng-zorro-antd - based UI components and back-end interfaces, simplifying integration, reducing code redundancy, and boosting development efficiency. | TypeScript | 20 stars | BSD-3-Clause
+153. https://github.com/RADAR-base/RADAR-Questionnaire | Questionnaire mobile application (Active App) for RADAR-base | TypeScript | 20 stars | Apache-2.0
+154. https://github.com/uni-helper/uni-create-view | 在 VSCode 中快速创建 uni-app 页面！ | TypeScript | 20 stars | MIT
+155. https://github.com/newcat/LedMusicStudio | A WIP music visualization editor | TypeScript | 20 stars | AGPL-3.0
+156. https://github.com/SECTL/SecScore | 一个简单易用，优雅美观的班级个人积分管理软件。 | TypeScript | 20 stars | GPL-3.0
+157. https://github.com/OneSignal/onesignal-vue3 | OneSignal makes engaging customers simple and is the fastest, most reliable service to send push notifications, in-app messages, SMS, and emails. This plugin makes it easy to integrate your Vue 3 app with OneSignal. https://onesignal.com | TypeScript | 20 stars | NOASSERTION
+158. https://github.com/thib3113/vban | Implement the VBAN protocol in node.js | TypeScript | 20 stars | MIT
+159. https://github.com/axa-ch/react-polymorphic-types | Zero-runtime polymorphic component definitions for React | TypeScript | 20 stars | MIT
+160. https://github.com/morganstanley/ts-mocking-bird | A fully type safe mocking, call verification and import replacement library for jasmine and jest | TypeScript | 20 stars | Apache-2.0
+161. https://github.com/neopostmodern/structure | Structure is a knowledge management tool | TypeScript | 20 stars | AGPL-3.0
+162. https://github.com/clynamic/joi.how | jack-off-instruction stroke-to-the-beat slideshow | TypeScript | 20 stars | GPL-3.0
+163. https://github.com/gmaynez/debugssy | AI debugger for VS Code, Cursor, Windsurf | TypeScript | 20 stars | Apache-2.0
+164. https://github.com/shaharia-lab/mcp-frontend | Frontend for MCP (Model Context Protocol) Kit for Go - A Complete MCP solutions for ready to use | TypeScript | 20 stars | MIT
+165. https://github.com/arkemis-labs/puedo | ¿puedo? - Tiny JS Access Control | TypeScript | 20 stars | MIT
+166. https://github.com/TIPS-SA/facturacionelectronicapy-setapi | Módulo NodeJS encargado de enviar el Documento electrónico a la SET | TypeScript | 20 stars | MIT
+167. https://github.com/iamEvanYT/electron-webauthn | Add native WebAuthn/FIDO2 support to Electron using macOS AuthenticationServices framework. | TypeScript | 20 stars | MIT
+168. https://github.com/scriptex/react-round-carousel | An infinitely scrollable 3D carousel component for React | TypeScript | 20 stars | MIT
+169. https://github.com/naeem5877/vibedownloader-desktop | Premium Desktop YouTube Downloader with High-Quality Video & Audio Downloads for Windows, macOS, and Linux | TypeScript | 20 stars | NOASSERTION
+170. https://github.com/espressif/esp-rainmaker-home | ESP RainMaker Home App | TypeScript | 20 stars | Apache-2.0
+171. https://github.com/runwayml/sdk-node |  | TypeScript | 20 stars | Apache-2.0
+172. https://github.com/titaniumnetwork-dev/Oxide | The official site for TitaniumNetwork, an organization dedicated to providing services related to bypassing internet censorship. Made with NextJS. | TypeScript | 20 stars | AGPL-3.0
+173. https://github.com/nearform/lastlight | Self-hostable, MIT Licensed, Enterprise AI Software Factory | TypeScript | 20 stars | MIT
+174. https://github.com/lifeparticle/SelectStar | ⭐️ Compare GitHub Repositories Based on the Number of Stars and Other Relevant Parameters | TypeScript | 20 stars | MIT
+175. https://github.com/shehza-d/portfolio | Passion Project (Please don't copy design) | TypeScript | 20 stars | GPL-3.0
+176. https://github.com/samuelweckstrom/react-dvd-screensaver | DVD-era nostalgia in React. | TypeScript | 20 stars | MIT
+177. https://github.com/fasenderos/bitify | Open Source Trading Platform for building a Blockchain/FinTech cryptocurrency exchange in NodeJS | TypeScript | 20 stars | Apache-2.0
+178. https://github.com/exdst/jss-astro-public | Sitecore JavaScript Software Development Kit for Astro | TypeScript | 20 stars | Apache-2.0
+179. https://github.com/littlesera/LSCG |  | TypeScript | 20 stars | GPL-3.0
+180. https://github.com/hermesloom/theglobalburn | The operating system for the Burning Man culture. | TypeScript | 20 stars | GPL-3.0
+181. https://github.com/zitadel/react-auth | Official Zitadel auth integration for React. | TypeScript | 20 stars | NOASSERTION
+182. https://github.com/afterclass-io/afterclass.io | AfterClass supports more than 40,000 students each semester in selecting the ideal modules for their academic path | TypeScript | 20 stars | MIT
+183. https://github.com/vikiboss/v50 | 🍿️ 【持续更新中】一系列高质量 KFC 疯狂星期四文案，已收录 400+ 条，欢迎 PR 贡献 | TypeScript | 20 stars | MIT
+184. https://github.com/sogrim/technion-sogrim | Get your degree status in the best possible way 🤓 | TypeScript | 20 stars | MIT
+185. https://github.com/jatorre/hacienda-cli | CLI para interactuar con la sede electrónica de la AEAT. Sube/descarga declaraciones IRPF en formato XML oficial. | TypeScript | 20 stars | MIT
+186. https://github.com/ProfessioneIT/lsp-mcp-server | An MCP (Model Context Protocol) server that bridges Claude Code to Language Server Protocol (LSP) servers, enabling semantic code intelligence capabilities. | TypeScript | 20 stars | MIT
+187. https://github.com/DisruptorProxy/Core | Fast, open-source Xray-core GUI client for Windows, Linux, macOS, and Android. VLESS, VMess, Trojan, Shadowsocks, Hysteria2, TUIC and REALITY - with subscriptions, bulk latency testing, and custom routing rules. | TypeScript | 20 stars | MIT
+188. https://github.com/akamai/cli-edgeworkers | Akamai CLI for EdgeWorkers, allows you to interact with EdgeWorkers APIs via a command line interface | TypeScript | 20 stars | Apache-2.0
+189. https://github.com/adsorgcn/AdsPilot | Google Ads optimization and monetization automation platform. | TypeScript | 20 stars | MIT
+190. https://github.com/benoitpetit/signal-sdk | A comprehensive TypeScript SDK for interacting with signal messenger, providing JSON-RPC communication and a powerful bot framework. | TypeScript | 20 stars | MIT
+191. https://github.com/jentic/jentic-arazzo-tools | Jentic Arazzo Tools | TypeScript | 20 stars | Apache-2.0
+192. https://github.com/workos/oagen-emitters | WorkOS' oagen emitters | TypeScript | 20 stars | MIT
+193. https://github.com/rff255/GenesisCA | Free online IDE for code-free Modeling and Simulation of Cellular Automata (CA) and Agents - 2D/3D | TypeScript | 20 stars | GPL-3.0
+194. https://github.com/evangauer/openvpm | Free, open-source, API-first veterinary practice management system (PIMS) — self-hostable, with a built-in AI agent and a real REST API. | TypeScript | 20 stars | AGPL-3.0
+195. https://github.com/IRISX-AI/IRIS-Mini | IRIS Mini ⚡ — The agentic CLI heartbeat. Scaffolds code 🏗️, commands the local filesystem 📂, and automates your developer workflow directly from the terminal 🚀. Pure execution, zero friction, local-first intelligence 🧠💻. | TypeScript | 20 stars | NOASSERTION
+196. https://github.com/VENTIONINC/TestPortal-client |  | TypeScript | 20 stars | Apache-2.0
+197. https://github.com/csxark/CryptoViz |  | TypeScript | 20 stars | MIT
+198. https://github.com/telekom-mms/phonebook | A WebApp to search for people in a company. (Currently only the frontend is fully open sourced) | TypeScript | 20 stars | MIT
+199. https://github.com/zhouhoujun/tsioc | AOP,  Ioc container, Boot framework, unit testing framework , activities workflow framework. | TypeScript | 20 stars | MIT
+200. https://github.com/sajidnagari/beats | Modern landing page application built with Next.js. | TypeScript | 20 stars | MIT
+201. https://github.com/snetsystems/cloudhub | CloudHub is a totally designed system that lets you monitor and manage the availability of something like servers, applications, virtual machines, Kubernetes, and so on. | TypeScript | 20 stars | NOASSERTION
+202. https://github.com/bloomreach/bloomreach-reference-spa | brX SaaS + React = ♥️ | TypeScript | 20 stars | Apache-2.0
+203. https://github.com/arikusi/nakkas | MCP server that turns AI into an SVG artist | TypeScript | 20 stars | MIT
+204. https://github.com/raslan/throwaway | An identity generator for testers and privacy enthusiasts. https://throwaway.raslan.dev | TypeScript | 20 stars | MIT
+205. https://github.com/zimonitrome/convolution-shape-calculator | Visualization and calculator for input & output for deep neural networks. | TypeScript | 20 stars | MIT
+206. https://github.com/foxundermoon/feishu-action | feishu custom bot action | TypeScript | 20 stars | MIT
+207. https://github.com/ThreeHats/foundryvtt-rest-api | A Foundry VTT module that provides a general purpose REST API through a WebSocket relay | TypeScript | 20 stars | MIT
+208. https://github.com/CodeForPhilly/balancer-main | Code For Philly Balancer Project (https://codeforphilly.org/projects/balancer) | TypeScript | 20 stars | AGPL-3.0
+209. https://github.com/hazuki-keatsu/xuexitong-ppt-downloader | 超星学习通 PPT 下载工具。 | TypeScript | 20 stars | MIT
+210. https://github.com/sxzz/tsdown-templates | Collection of tsdown templates | TypeScript | 20 stars | MIT
+211. https://github.com/alexcarpenter/resilient-ui | Resources for building resilient user interfaces. | TypeScript | 20 stars | MIT
+212. https://github.com/hassibmoddasser/storagekit-website | Official website for the StorageKit browser extension. | TypeScript | 20 stars | GPL-3.0
+213. https://github.com/filecoin-project/filsnap | ⨎  Metamask Filecoin Wallet | TypeScript | 20 stars | Apache-2.0
+214. https://github.com/arjunrajlaboratory/NimbusImage | UPenn ? | TypeScript | 20 stars | Apache-2.0
+215. https://github.com/0401lucky/narra-image | 高颜值 AI 绘图站：积分、审核、管理台、Go Worker 出图队列 | TypeScript | 20 stars | AGPL-3.0
+216. https://github.com/DevCycleHQ/cli | DevCycle - CLI | TypeScript | 20 stars | MIT
+217. https://github.com/eraycoskunai/Termspire |  A command tower for your terminals and AI coding agents — run Claude Code, Codex, and any shell in a resizable grid with Mission Control, session replay, git-aware diffs, and crash-loop protection. | TypeScript | 20 stars | MIT
+218. https://github.com/graphql-middleware/body-parser-graphql | GraphQL server middleware to support application/graphql requests | TypeScript | 20 stars | MIT
+219. https://github.com/nestjs/enterprise.nestjs.com | The official website https://enterprise.nestjs.com 🌁 | TypeScript | 20 stars | MIT
+220. https://github.com/jmjuanes/folio | 📜 A minimal whiteboard for sketching, annotating and prototyping | TypeScript | 20 stars | MIT
+221. https://github.com/roboco-io/plugins | Claude Code 플러그인 모음 - Skills, Commands, Agents, Hooks | TypeScript | 20 stars | MIT
+222. https://github.com/catppuccin/pantone | 🌈 Soothing pastel colors for Pantone | TypeScript | 20 stars | MIT
+223. https://github.com/habasefa/react-native-ajora | The most complete AI agent UI for React Native | TypeScript | 20 stars | MIT
+224. https://github.com/Gabriel-Pereira1788/DayOne | DayOne is a mobile application designed to help users build and maintain daily habits through a streak-based tracking system. The app focuses on simplicity and motivation, making it easy for users to track their progress and maintain consistency in their daily routines. | TypeScript | 20 stars | MIT
+225. https://github.com/nandkapadia/streamlit-lightweight-charts-pro | 🚀 Professional financial charting library for Streamlit - Built on TradingView's lightweight-charts with fluent API, trade visualization, and advanced annotations | TypeScript | 20 stars | MIT
+226. https://github.com/erickoledadevrel/packs | Coda Packs I've created. | TypeScript | 20 stars | MIT
+227. https://github.com/ewc3labs/excel-power-query-editor | A modern, reliable VS Code extension for editing Power Query M code from Excel files | TypeScript | 20 stars | MIT
+228. https://github.com/node-red-contrib/node-red-contrib-renault-ze | node-red extension to fetch the status from your renault connected car | TypeScript | 20 stars | Apache-2.0
+229. https://github.com/Smiling-Hacker01/Project-Divish | A secure real-time couples platform with WhatsApp-style chat, live mood notifications, biometric media vaults, shared memories, LoveBot automation, anniversary tracking, and interactive coupon/favor and games experiences. | TypeScript | 20 stars | NOASSERTION
+230. https://github.com/dexxiez/shadcn-hsl-preview | shadcn HSL Preview extension for Visual Studio Code | TypeScript | 20 stars | MIT
+231. https://github.com/salesforcecli/plugin-packaging |  | TypeScript | 20 stars | Apache-2.0
+232. https://github.com/jcommaret/kodia | Kodia is an Opensource AI IDE forked from Void | TypeScript | 20 stars | Apache-2.0
+233. https://github.com/Ayokanmi-Adejola/Ecommerce-Platform | A comprehensive, dynamically scalable, and globally accessible full-stack e-commerce application, meticulously engineered to provide a seamless and personalized shopping experience, featuring robust user authentication protocols for secure access. | TypeScript | 20 stars | MIT
+234. https://github.com/fum4/openkit | The platform for your agents. | TypeScript | 20 stars | MIT
+235. https://github.com/stoplightio/http-spec | Utilities to normalize OpenAPI v2 and v3 objects for the Stoplight ecosystem. | TypeScript | 20 stars | Apache-2.0
+236. https://github.com/clockor2/clockor2 | Inferring global and local strict molecular clocks using root-to-tip regression | TypeScript | 20 stars | GPL-3.0
+237. https://github.com/Jeba-Jebarsan/insideai | Watch a real AI model think - live 3D visualization of a transformer's actual forward pass: tokens, embeddings, attention, neurons, sampling | TypeScript | 20 stars | MIT
+238. https://github.com/embeddable-hq/remarkable-ui | Remarkable UI is an open-source library of beautiful analytics components – charts, dropdowns, tables, and more. | TypeScript | 20 stars | MIT
+239. https://github.com/pkyanam/trifecta | Trifecta is a cross-platform coding agent platform. It consists of a desktop server that runs AI coding agents, plus native mobile clients for iOS and Android that let you chat with your agent, review changes, and manage your development workflow from anywhere. | TypeScript | 20 stars | Apache-2.0
+240. https://github.com/wangweiwei/auto-cr | auto-cr: a lightning-fast SWC-powered code review toolkit—CLI + extensible rule SDK—to surface risky JS/TS changes before merge. | TypeScript | 20 stars | MIT
+241. https://github.com/ceilaolabs/obsidian-s3-sync-and-backup | Vault synchronization and scheduled backups across devices using S3-compatible storage (AWS S3, Cloudflare R2, RustFS, etc.) with optional end-to-end encryption. | TypeScript | 20 stars | MIT
+242. https://github.com/signalapp/node-sqlcipher | A fast N-API-based Node.js addon wrapping sqlcipher and FTS5 segmenting APIs. | TypeScript | 20 stars | AGPL-3.0
+243. https://github.com/MoonBottle/siyuan-plugin-bullet-journal |  | TypeScript | 20 stars | AGPL-3.0
+244. https://github.com/ChrisRomp/copilot-bridge | Bridge GitHub Copilot CLI to messaging platforms (Mattermost, Slack, etc.) | TypeScript | 20 stars | MIT
+245. https://github.com/Railgun-Community/engine | JavaScript library to interact with RAILGUN smart contracts | TypeScript | 20 stars | MIT
+246. https://github.com/HarryDulaney/pfolie | Open-source investment portfolio manager with beautiful analytics dashboards, charting, and asset tracking. | TypeScript | 20 stars | NOASSERTION
+247. https://github.com/extend-hq/react-docx |  | TypeScript | 20 stars | MIT
+248. https://github.com/posva/clipboard-text | Simple and small copy-text-to-the-clipboard-utility with IE11 support | TypeScript | 20 stars | NOASSERTION
+249. https://github.com/AquatikJustice/SuperCargo |  | TypeScript | 20 stars | MIT
+250. https://github.com/corona-school/backend | The backend of Lern-Fair – where the magic happens... ✨ | TypeScript | 20 stars | MIT
+251. https://github.com/Walrus-Computing/piper-draw | Interactively draw pipe diagrams for lattice surgery. | TypeScript | 20 stars | Apache-2.0
+252. https://github.com/yuki-yano/vde-monitor |  | TypeScript | 20 stars | MIT
+253. https://github.com/freifunk/meshviewer | Visualization for Freifunk open mesh network nodes | TypeScript | 20 stars | AGPL-3.0
+254. https://github.com/Chinesezjc/dsh-interconnect | Cross-instance message/event handoff plugins for DSH (interconnect service + tools) | TypeScript | 20 stars | MIT
+255. https://github.com/mblode/diffhub | Local git diff viewer | TypeScript | 20 stars | MIT
+256. https://github.com/rciam/keycloak-group-management | A Keycloak extension for advanced group management  | TypeScript | 20 stars | Apache-2.0
+257. https://github.com/JaydenCJ/grok-build-desktop | Grok Build Desktop — a native desktop client for the official Grok Build CLI. Claude-Desktop-style coding UI: non-blocking streaming, conversations, MCP + Skills hub, prompt library. Tauri 2 + React 19 + Rust. | TypeScript | 20 stars | NOASSERTION
+258. https://github.com/brilliantnz/flickernaut | Flickernaut is a GNOME extension that adds custom entry to Nautilus context menu for your installed dev tools, IDEs, and custom apps. | TypeScript | 20 stars | GPL-3.0
+259. https://github.com/javadSharifi/persian-number-input | React Persian Number Input Component | TypeScript | 20 stars | MIT
+260. https://github.com/RonkTsang/gemini-chat-extension | Transform your Gemini experience with powerful tools designed to boost your productivity | TypeScript | 20 stars | MIT
+261. https://github.com/adrielp/ai-engineering-harness | Provides a harness for various different AI agent for harness context engineering | TypeScript | 20 stars | Apache-2.0
+262. https://github.com/kinde-oss/kinde-react-native-sdk-0-7x |  Kinde React Native SDK for authentication for 0.7x | TypeScript | 20 stars | MIT
+263. https://github.com/joeyism/opencode-multiplexer-ts | an OpenCode MultiPlexer, to allow seamless switching between parallel running session, both existing and new | TypeScript | 20 stars | Apache-2.0
+264. https://github.com/linxule/openinterviewer | Open-source AI-powered qualitative research platform. Conduct deep interviews at scale with AI interviewers (Gemini/Claude) that adapt to responses. Features study management, real-time synthesis, aggregate analysis, and one-click Vercel deployment. | TypeScript | 20 stars | MIT
+265. https://github.com/DUBSOpenHub/dark-factory | 🏭 Agentic dark factory for AI building with sealed-envelope testing | TypeScript | 20 stars | MIT
+266. https://github.com/Parthakashyap/AniMovie | AniMovie is an open-source movie, anime, and manga streaming platform that integrates TMDB, AniList, and VidSrc APIs to deliver ad-free HD streaming, full metadata, and a unified discovery experience for films, shows, and series. | TypeScript | 20 stars | MIT
+267. https://github.com/ctrf-io/cypress-ctrf-json-reporter | A Cypress JSON test results reporter that follows the CTRF schema | TypeScript | 20 stars | MIT
+268. https://github.com/plone/nick | Nearly Headless CMS | TypeScript | 20 stars | MIT
+269. https://github.com/BalajSaleem/criterion | Quran based intelligence | TypeScript | 20 stars | NOASSERTION
+270. https://github.com/ThierryRakotomanana/GitCharta | Visualize your GitHub footprint in 2D and 3D. Transform raw counts (stars, forks, PRs) into an interactive global map to see exactly how far your work travels. | TypeScript | 20 stars | MIT
+271. https://github.com/pfeifferj/cockpit-pacman | A Cockpit plugin for Arch Linux package management using direct alpm.rs integration | TypeScript | 20 stars | GPL-3.0
+272. https://github.com/ciena/ciena.saos10 | Ansible Collection for SAOS 10 devices | Python | 20 stars | Apache-2.0
+273. https://github.com/KyleJamesWalker/pr-changes-matrix-builder | A Github Action that will output a variable to be used in a matrix strategy job based on a PR's changes | Python | 20 stars | MIT
+274. https://github.com/frappe/india-payroll | A Frappe HR extenstion app to simplify payroll and taxes according to indian rules and regulations | Python | 20 stars | GPL-3.0
+275. https://github.com/lucianmarin/pybench | Python benchmark tool inspired by Geekbench. | Python | 20 stars | NOASSERTION
+276. https://github.com/matthiasprobst/h5RDMtoolbox | Supporting a FAIR Research Data lifecycle using Python and HDF5. | Python | 20 stars | MIT
+277. https://github.com/mrHuangyz/TaF-VLA |  | Python | 20 stars | MIT
+278. https://github.com/skipperro/pajgps-homeassistant | This integration allows you to use PAJ GPS devices (www.paj-gps.de) in Home Assistant. | Python | 20 stars | MIT
+279. https://github.com/uktrade/stream-zip | Python function to construct a ZIP archive on the fly | Python | 20 stars | MIT
+280. https://github.com/matbo87/snes9x_3ds-assets | assets for snes9x_3ds emulator | Python | 20 stars | MIT
+281. https://github.com/cicese-biocom/esm-AxP-GDL |  | Python | 20 stars | MIT
+282. https://github.com/preligens-lab/textnoisr | Adding random noise to a text dataset, and controlling very accurately the quality of the result  | Python | 20 stars | BSD-2-Clause
+283. https://github.com/HDM-soft/rocketdoo | Odoo Development Framework | Python | 20 stars | NOASSERTION
+284. https://github.com/sharpa-robotics/sharpa-urdf-usd-xml | Assets for sharpa hardware | Python | 20 stars | NOASSERTION
+285. https://github.com/CommonRoad/commonroad-autoware-interface | A planning interface based on CommonRoad which integrates into the Autoware.Universe software stack | Python | 20 stars | BSD-3-Clause
+286. https://github.com/nikhilprasanth/Auris | Offline audiobook reader for EPUB, PDF, and TXT with local OmniVoice TTS, character voices, and synced highlighting. | Python | 20 stars | MIT
+287. https://github.com/kelkalot/simpleaudit | Allows to red-team your AI systems through adversarial probing. It is simple, effective, and requires minimal setup. | Python | 20 stars | MIT
+288. https://github.com/gcve-eu/gcve | A Python client for the Global CVE Allocation System. | Python | 20 stars | GPL-3.0
+289. https://github.com/warlockee/oxRL | A lightweight post-training framework for LLMs and VLMs. 51 algorithms, 38 verified models. Scales with DeepSpeed, vLLM, and Ray.    | Python | 20 stars | Apache-2.0
+290. https://github.com/buckai-observatory/geoai-datacubes | Acquisition, harmonization, and pre-processing of AI-ready multimodal satellite data cubes.  | Python | 20 stars | MIT
+291. https://github.com/boelnasr/ManipulaPy | ManipulaPy is a modular, GPU-accelerated Python package for robotic manipulator simulation, planning, control, and perception. It supports kinematics, dynamics, path planning, control strategies, PyBullet simulation, and even 3D vision with stereo processing and YOLO-based obstacle detection. | Python | 20 stars | AGPL-3.0
+292. https://github.com/Slyss42/Dracoon | Dracoon est un gestionnaire de fenêtre pour Dofus Rétro.  Il intègre le tri des fenêtres, le bind de raccourcis et un auto-focus. | Python | 20 stars | MIT
+293. https://github.com/robustonian/ai-pixel-art-converter |  | Python | 20 stars | MIT
+294. https://github.com/Softcatala/arena-cat | Plataforma participativa centrada exclusivament a mesurar la competència en llengua catalana dels models de llenguatge gran (LLMs).  | Python | 20 stars | MIT
+295. https://github.com/cyberbol/AI-Video-Clipper-LoRA | Automated video dataset creator for Windows using WhisperX and Qwen2-VL | Python | 20 stars | MIT
+296. https://github.com/tzok/eltetrado | A Python application to find and classify tetrads and quadruplexes in DNA/RNA 3D structures | Python | 20 stars | MIT
+297. https://github.com/yutianxiao6/openreel-studio | OpenReel Studio source snapshot | Python | 20 stars | MIT
+298. https://github.com/OleksandrKrupko/mac-os-debloat | Debloat your Mac from the terminal. SIP-safe interactive console util to disable 270 non-essential macOS launchd services + Spotlight toggle, with telemetry/balanced presets and your own custom presets. Self-validates against your macOS build. macOS Tahoe + Apple Silicon. Zero deps. | Python | 20 stars | MIT
+299. https://github.com/WeblateOrg/siphashc | python c-module for siphash | Python | 20 stars | ISC
+300. https://github.com/0xideas/sequifier |  | Python | 20 stars | Apache-2.0
